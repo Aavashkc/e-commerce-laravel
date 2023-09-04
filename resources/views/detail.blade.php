@@ -18,7 +18,7 @@
                 <button class="btn btn-primary">Add to Cart</button>
             </form>
             <br>
-            <button class="btn btn-success">Buy now</button>
+            <a href="/ordernow" class="btn btn-success">Buy now</a>
             <br><br>
         </div>
     </div>

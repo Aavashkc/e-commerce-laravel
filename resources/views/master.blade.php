@@ -68,5 +68,10 @@
     text-decoration: none;
     color: rgb(26, 23, 23);
   }
+  .cart-list-divider{
+   border-bottom: 1px solid #ccc;
+   margin-bottom: 20px;
+   padding:20px;
+  }
    </style>
 </html>
